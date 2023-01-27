@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Ubuntu', sans-serif;
+    color: rgb(186, 171, 150);
+    background-color: #14181C;
+}
+
+.container{
+    
+    padding: 20px;
+}
+h2{
+    background-color: #1d242c;
+    text-align: center;
+    color: rgb(23, 106, 106);
+    font-weight: bolder;
+    margin: 20px;
+}
+p{
+    padding: 20px;
+    width: 97%;
+    position: relative;
+    right : -22px;
+    border: 2px solid rgb(186, 171, 150);
+}
